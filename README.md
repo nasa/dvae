@@ -8,7 +8,7 @@ Please note that the posted data files are shorter and contain fewer instances t
 
 ## License:
 ```
-NASA_Open_Source_Agreement_ARC-18940-1_DVAE (https://github.com/nasa/dvae/NASA_Open_Source_Agreement_ARC-18940-1_DVAE.pdf)
+NASA_Open_Source_Agreement_ARC-18940-1_DVAE (https://github.com/nasa/dvae/blob/main/NASA_Open_Source_Agreement_ARC-18940-1_DVAE.pdf)
 ```
 
 
